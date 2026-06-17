@@ -30,3 +30,5 @@ resources = {
     "coffee": 100,
 }
 
+
+user_input = input("What would you like? (espresso/latte/cappuccino): ").lower()
