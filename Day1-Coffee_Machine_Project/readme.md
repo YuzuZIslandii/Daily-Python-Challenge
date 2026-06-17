@@ -1,4 +1,4 @@
-# ☕ Coffee Machine Simulator (Day 15)
+# ☕ Coffee Machine Simulator (Day 01) - Part of Angela Yu's 100 Days of Code.
 
 ## 📖 Project Overview
 A Python-based command-line interface (CLI) application that simulates the logic of a real-world coffee machine. The program manages internal resources, processes financial transactions, and serves different types of coffee based on user input and available ingredients.
