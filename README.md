@@ -8,7 +8,7 @@ Small but important note about AI usage in this repo: I am using AI to boost my 
 
 The only way I use AI's code is through Intellisense and ONLY if I understand it before running the code itself. If I can't properly understand what code is doing before I run it - I copy it for later, rewrite it myself, and then use agent to review differences.
 
-In short I wrote this to ensure you: every single concept and skill that you will or will not see in this repository is my own. Including **smart** AI usage.
+In short I wrote this to ensure you: every single concept and skill that you will or will not see in this repository is my own. Including **smart AI usage**.
 
 
 ## 🎓 Course Context
