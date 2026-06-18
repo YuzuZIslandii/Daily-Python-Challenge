@@ -5,9 +5,10 @@ from money_machine import MoneyMachine
 menu = Menu()
 coffee_maker = CoffeeMaker()
 money_machine = MoneyMachine()
+choices = menu.get_items()
 
 while True:
-    user_input = input("What would you like? (espresso/latte/cappuccino): ").lower()
+    user_input = input(f"What would you like? {choices}: ").lower()
     if user_input == "off":
         break
 
