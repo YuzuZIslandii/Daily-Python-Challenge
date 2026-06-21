@@ -1,4 +1,4 @@
-# 🧠 OOP Quiz Project (Day 17) - Part of Angela Yu's 100 Days of Code.
+# 🧠 OOP Quiz Project (Day 03) - Part of Angela Yu's 100 Days of Code.
 
 > **📝 Course Exercise Context:** Because this project serves as my foundational introduction to creating custom classes from scratch, the architecture and logic flow are heavily guided by Angela Yu's instructions. The focus of this milestone was not on writing completely novel system designs, but on mastering the syntax and structural patterns of defining custom types and managing object state in Python.
 
