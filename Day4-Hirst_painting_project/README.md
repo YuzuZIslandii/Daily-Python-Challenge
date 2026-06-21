@@ -1,4 +1,4 @@
-# 🎨 Hirst Painting Project (Day 18) - Part of Angela Yu's 100 Days of Code.
+# 🎨 Hirst Painting Project (Day 04) - Part of Angela Yu's 100 Days of Code.
 
 > **📝 Course Exercise Context:** This milestone focuses on utilizing Python's standard `turtle` graphics library alongside the external `colorgram` package to generate digital pointillism art. The objective was to extract a distinct color palette from a source image and translate it into a mathematically precise $10 \times 10$ grid of dots.
 
