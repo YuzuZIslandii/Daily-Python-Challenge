@@ -23,14 +23,4 @@ while snake_moving:
 
 
 
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
