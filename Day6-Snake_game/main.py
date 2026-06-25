@@ -18,6 +18,9 @@ while snake_moving:
     snake.move()
 
 
+snake.game_over()
+
+
 
 
 
